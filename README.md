@@ -28,7 +28,7 @@ Abrir `app.js` y reemplazar:
 
 ```javascript
 const SUPABASE_URL = 'https://tuproyecto.supabase.co';
-const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...';
+const SUPABASE_KEY = 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzz...';
 ```
 
 Con **tus** valores:
